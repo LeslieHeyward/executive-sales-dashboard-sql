@@ -53,6 +53,7 @@ Interactive Reporting: Implemented Customer Segment and Region slicers to suppor
 - Top 5 Products bar chart.
 - Interactive Customer Segment and Region slicers.
 
+
 ## Project Files
 
 - `Sales_Returns_Analytics_Dashboard.pbix` — Power BI report containing the data model, DAX measures, and interactive dashboard.
@@ -60,6 +61,9 @@ Interactive Reporting: Implemented Customer Segment and Region slicers to suppor
 
 ## Dataset
 
-This project uses a small synthetic retail dataset containing four related tables: customers, orders, products, and returns. Results are intended to demonstrate analytical techniques rather than represent actual business performance.
+This project uses a small synthetic retail dataset containing four related tables: customers, orders, products, and returns. Results are intended to demonstrate analytical techniques rather than represent actual business 
 
 
+## Dashboard Preview
+
+![Sales & Returns Performance Dashboard](image.jpg)
