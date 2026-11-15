@@ -66,4 +66,6 @@ This project uses a small synthetic retail dataset containing four related table
 
 ## Dashboard Preview
 
-[Sales & Returns Performance Dashboard](image.jpg)
+
+![Sales & Returns Performance Dashboard](image.jpg)
+
